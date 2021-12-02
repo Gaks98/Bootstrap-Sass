@@ -4,7 +4,7 @@
   "description": "Learining bootstrap v5 with sass",
   "main": "index.js",
   "scripts": {
-    "compile-sass": "sass scss:assets/css"
+    "compile:sass": "sass scss:assets/css"
   },
   "keywords": [
     "bootstrap",
