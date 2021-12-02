@@ -4,7 +4,7 @@
   "description": "Learining bootstrap v5 with sass",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "compile-sass": "sass scss:assets/css"
   },
   "keywords": [
     "bootstrap",
