@@ -1,0 +1,4 @@
+@use '../custom' as *;
+.menu {
+  background-color: linear-gradient(to right, rg);
+}
